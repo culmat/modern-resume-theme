@@ -1,0 +1,19 @@
+// Typography variables
+// Users can override these by setting variables before importing the theme
+
+// Font family - default to Roboto if not specified
+$font-family: 'Roboto', sans-serif !default;
+$font-url: 'https://fonts.googleapis.com/css?family=Roboto:100,300,400,700,500,500italic,400italic,300italic,100italic,700italic' !default;
+
+// Alternative font examples (commented out):
+// For Manrope:
+// $font-family: 'Manrope', sans-serif;
+// $font-url: 'https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&display=swap';
+
+// For Inter:
+// $font-family: 'Inter', sans-serif;
+// $font-url: 'https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap';
+
+// For Plus Jakarta Sans:
+// $font-family: 'Plus Jakarta Sans', sans-serif;
+// $font-url: 'https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@200;300;400;500;600;700;800&display=swap';
